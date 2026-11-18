@@ -1,5 +1,11 @@
 # EMBERFALL
 
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/gaplek15/emberfall/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/gaplek15/emberfall/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
+Entry for make.fun's ["Make the best game" bounty](https://make.fun/bounty/best-game-01) ($1,000 in USDC).
+
 A top-down arena shooter about ember and choice. You are the last Lantern
 Keeper in a field of ash: ember-wisps swarm you in waves, and every one you
 shatter drops embers. Embers are the whole game — spend them between waves on
